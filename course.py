@@ -214,3 +214,4 @@ class CourseClass:
 if __name__=="__main__":
     root=Tk()
     obj=CourseClass(root)
+    root.mainloop()
